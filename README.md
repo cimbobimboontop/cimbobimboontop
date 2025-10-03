@@ -25,7 +25,7 @@ I'm a 16-year-old student from Slovakia, passionate about computers at the lowes
 - 🧠 Designing an **8-bit CPU** from scratch in Logisim Evolution
 
 
-- 💻 Learning **x86-64 Assembly**, **C++**, and **Python**
+- 💻 Learning **x86-64 Assembly**, **C++**, **C**,and **Python**
 
 
 - 🧬 Planning a custom **instruction set**, assembler, and emulator
